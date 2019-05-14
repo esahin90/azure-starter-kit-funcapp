@@ -7,7 +7,7 @@
       "eventHubName": "cb-bcx-adt-topology-event-hub",
       "connection": "cb-bcx-event-hubs",
       "cardinality": "many",
-      "consumerGroup": "bcx-team-001-df"
+      "consumerGroup": "bcx-team-004-cv"
     }
   ]
 }
